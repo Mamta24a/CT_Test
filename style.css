@@ -1,0 +1,114 @@
+/*li:hover > ul {
+  display: inline;
+  float:right;
+  position:absolute;
+  margin-top:0px;
+  margin-right:5px;
+}*/
+
+.two:hover>.men1{
+	  display: block;
+	  }
+
+.do:hover>.men2{
+	  display: inline;
+  top:0px;
+  margin-right:100%;
+}
+
+
+
+.top{
+	background:#ff6200;
+}
+
+#call {
+	color:#be3600;
+}
+
+.container{
+	margin:auto;
+	width:70%;
+}
+
+.nav>ul>li>a{
+	line-height:60px;
+	color:black;
+	padding-top:0px;
+	height:60px;
+}
+.nav>.navbar-brand{
+	line-height:27px
+}
+
+.underline{
+	  height:5px;
+  background:#525252;
+  border: none;
+  padding-top:0px;
+  margin-top:0px;
+  width:100%;
+  margin-bottom:20px
+}
+
+h3{
+	color:#ff6200;
+}
+
+p{
+	color:#6a6a6a;
+}
+
+.btn-warning{
+   color:white;
+   background:#ff6200;
+   border-radius:0px;   
+}
+
+
+.frm{
+	background:#f6f6f6;
+	border:1px solid #ededed;
+	border-top:1px solid #ededed;
+	border-radius:0px;
+	padding:1%
+}
+
+.two:hover ~ hr {
+  margin-left: 14.3%;
+}
+
+.three:hover ~ hr {
+  margin-left: 28.5%;
+}
+
+.four:hover ~ hr {
+  margin-left: 42.8%;
+}
+
+.five:hover ~ hr {
+  margin-left: 57%;
+}
+
+.six:hover ~ hr {
+  margin-left: 71.3%;
+}
+
+.seven:hover ~ hr {
+  margin-left: 85.6%;
+}
+
+hr {
+  height: 4px;
+  width: 14.2%;
+  margin: 0px;
+  background: tomato;
+  border: none;
+  transition: .3s ease-in-out;
+}
+
+.btn-md{
+	background:#d0d0d0;
+	color:white;
+	border-radius:0px
+}
